@@ -1,0 +1,39 @@
+Please list all current associate professors of the Department of Foreign Languages and Literatures, Tsinghua University.
+
+请列出清华大学外国语言文学系所有副教授的名单。
+
+There is a Github user who created issues both in openai/simple-eval and in duckdb/duckdb. Please list all Github users that satisfy this criteria.
+
+请列出麦当劳当前在售菜品中所有热量大于400千卡的单品。
+
+在bilibili用户 '竹雈' 2025年上传的所有视频中，哪些视频的评论提到了柳莺？
+
+Among all Steam store items released on 15 May 2025, which of them has the tag 'Roguelite'? Only give answers precisely matching the criteria.
+
+Among all Steam games I have played in 2025, which of them has the tag 'Roguelike'? I have set the browser cookies for you, so you will be able to access my Steam account.
+
+Among all my Steam friends, who of them are currently online? I have already logged in to Steam on the browser, and you may directly visit it.
+
+Among all my conversations with ChatGPT in its website, which literary works are discussed? I have already logged in, so you may directly visit the ChatGPT website.
+
+Among all Github repositories that I have starred, which of them has an issue opened by user 'Ja5onYng'? I have already logged in, so you may directly visit Github without having to log in.
+
+ curl --request POST \
+  --url https://api.firecrawl.dev/v1/scrape \
+  --header 'Authorization: Bearer fc-075bac3f08f24bb9bcef3d61d499d7cf' \
+  --header 'Content-Type: application/json' \
+  --data '{
+  "url": "https://games-stats.com/steam/calendar/2025/5/",
+  "formats": [
+    "markdown"
+  ],
+  "onlyMainContent": true,
+  "headers": {},
+  "waitFor": 0,
+  "mobile": false,
+  "skipTlsVerification": false,
+  "timeout": 30000,
+  "removeBase64Images": true,
+  "blockAds": true,
+  "proxy": "basic"
+}'

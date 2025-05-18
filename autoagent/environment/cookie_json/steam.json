@@ -1,0 +1,78 @@
+[
+    {
+        "domain": "steamcommunity.com",
+        "hostOnly": true,
+        "httpOnly": true,
+        "name": "steamCountry",
+        "path": "/",
+        "sameSite": "no_restriction",
+        "secure": true,
+        "session": true,
+        "storeId": null,
+        "value": "JP%7C65037189ac371d2557c6d58cd4e160d3"
+    },
+    {
+        "domain": "steamcommunity.com",
+        "expirationDate": 1778949095.808204,
+        "hostOnly": true,
+        "httpOnly": false,
+        "name": "browserid",
+        "path": "/",
+        "sameSite": "no_restriction",
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "268638092610216614"
+    },
+    {
+        "domain": "steamcommunity.com",
+        "hostOnly": true,
+        "httpOnly": false,
+        "name": "sessionid",
+        "path": "/",
+        "sameSite": "no_restriction",
+        "secure": true,
+        "session": true,
+        "storeId": null,
+        "value": "b6883b15529146dd2b0ce085"
+    },
+    {
+        "domain": "steamcommunity.com",
+        "expirationDate": 1781973095.807967,
+        "hostOnly": true,
+        "httpOnly": false,
+        "name": "Steam_Language",
+        "path": "/",
+        "sameSite": "no_restriction",
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "english"
+    },
+    {
+        "domain": "steamcommunity.com",
+        "expirationDate": 1781973095.398838,
+        "hostOnly": true,
+        "httpOnly": true,
+        "name": "steamLoginSecure",
+        "path": "/",
+        "sameSite": "no_restriction",
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "76561198290141182%7C%7CeyAidHlwIjogIkpXVCIsICJhbGciOiAiRWREU0EiIH0.eyAiaXNzIjogInI6MDAwQ18yNjRFQ0E0Rl85N0RGOCIsICJzdWIiOiAiNzY1NjExOTgyOTAxNDExODIiLCAiYXVkIjogWyAid2ViOmNvbW11bml0eSIgXSwgImV4cCI6IDE3NDc1MDA1OTIsICJuYmYiOiAxNzM4NzczMDk0LCAiaWF0IjogMTc0NzQxMzA5NCwgImp0aSI6ICIwMDA1XzI2NEVDQTU3X0FFMkU4IiwgIm9hdCI6IDE3NDczNzg1OTYsICJydF9leHAiOiAxNzY1MjQ1MTY2LCAicGVyIjogMCwgImlwX3N1YmplY3QiOiAiMTU2LjI0Ni44OS42OSIsICJpcF9jb25maXJtZXIiOiAiMTU2LjI0Ni44OS42OSIgfQ.2gHFWGnRq8Hwc5LoTQ_OYuMOJ4deNBMhqvQ8EYdQbu6xgST9KqHX6U-8SjhLF6GsomSh8V1-iIOhg31pqVpZAA"
+    },
+    {
+        "domain": "steamcommunity.com",
+        "expirationDate": 1778950298,
+        "hostOnly": true,
+        "httpOnly": false,
+        "name": "timezoneOffset",
+        "path": "/",
+        "sameSite": null,
+        "secure": false,
+        "session": false,
+        "storeId": null,
+        "value": "28800,0"
+    }
+]
